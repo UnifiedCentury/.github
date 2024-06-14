@@ -1,1 +1,1 @@
-![background-banner](./profile/assets/Background.png)
+![background-banner](./assets/Background.png)
